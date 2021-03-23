@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.com/cjwsohu/mo-ui.svg?token=mHoDqxyxXWX5BSpu8L9y&branch=master)](https://travis-ci.com/cjwsohu/mo-ui)
 
-mo-ui 是为慕课网打造的一套教学组件库，使用 React Hooks 和 typescript
+mo-ui 是使用 React Hooks 和 typescript
 意在让大家从零到一，由浅入深的提高自己的 React 和 typescript 水平，它的官网地址是
 [mo-ui.xyz](http://mo-ui.xyz)
 
