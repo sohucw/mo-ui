@@ -6,7 +6,7 @@ storiesOf('Welcome page', module)
     return (
       <>
         <h1>欢迎来到 mo-ui 组件库</h1>
-        <p>mo-ui 是为慕课网课程打造的一套教学组件库，从零到一让大家去学习</p>
+        <p>mo-ui是仿照Ant Design的组件库</p>
         <h3>安装试试</h3>
         <code>
           npm install mo-ui --save
